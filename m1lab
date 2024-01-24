@@ -1,0 +1,25 @@
+/*
+csc 134
+M2T1 - Receipt Calculator
+T Reyes
+*/
+#include <iostream>
+using namespace std;
+
+int main() {
+
+
+
+// Print receipt for a restaurant
+// The price before tax
+// the amount of tax owed (8%)
+// The total including tax
+cout << "M2T1" << endl;
+//set up variables
+
+// Calculate
+
+// Print receipt
+
+return 0;
+}
