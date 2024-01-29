@@ -13,14 +13,13 @@ int main() {
     int release_year = 2023;
     double box_office_gross = 327; // in million dollars
 
-    // print the output
     cout << "Welcome to the Movie Database." << endl;
     cout << "Movie: " << movie_name << endl;
     cout << "Year of Release: " << release_year << endl;
     cout << "Box Office Gross: $" << box_office_gross << " million" << endl;
     cout << endl;
 
-    // Quotes or additional information about the movie
+    // Quotes from the movie
     cout << "Quotes from " << movie_name << ":" << endl;
     cout << "1. \"Zero would be nice.\" - Gen. Leslie Groves" << endl;
     cout << "2. \"We're not convicting – just denying.\" - Lewis Strauss" << endl;
